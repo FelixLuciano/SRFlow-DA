@@ -25,7 +25,7 @@
 ## First things to do
 1. Clone this repo.
 ```
-git clone https://github.com/yhjo09/SRFlow-DA
+git clone https://github.com/FelixLuciano/SRFlow-DA
 cd SRFlow-DA
 ```
 
@@ -33,6 +33,8 @@ cd SRFlow-DA
 ```
 sh ./prepare.sh
 ```
+
+3. You are good to go on the demo notebook at `code/demo.ipynb`
 
 ## Test
 1. [Download](https://1drv.ms/f/s!AmcRzvPhtvytgqNJ6hbwp9HEmYLshg?e=IT4XC1) SRFlow-DA models and unzip it.
